@@ -1,0 +1,32 @@
+/* Heading 1 */
+.heading1{
+    background-color: cyan;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 340px;
+    display: inline-block;
+}
+
+/* Heading 2 */
+.heading2{
+    font-size: x-large;
+    color: darkblue;
+    margin-top: 50px;
+}
+
+#b1{
+    margin-top: 60px; 
+    align-items: center; 
+}
+
+#b2{
+    margin-top: 60px;   
+    align-items: center;   
+}
+
+.button{
+    margin-top: 40px;
+    margin-left: 450px;
+}
+

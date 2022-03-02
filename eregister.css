@@ -1,0 +1,35 @@
+/* Heading of the Page */
+.container h1{
+    background-color: cyan;
+    color: blueviolet;
+    margin-top: 40px ;
+}
+
+/* Form */
+.container form{
+    margin-top: 60px;
+}
+
+/* Back */
+#b1{
+    margin-top: 20px;
+    margin-left: 320px;
+} 
+
+/* Register */
+#b2{
+    margin-top: 40px;
+    margin-left: 320px;
+} 
+
+
+
+/* For colouring the labels in the entire form */
+.form-group label{
+    color: rgb(247, 22, 228);
+}
+
+.g-recaptcha{
+    margin-top: 20px;
+}
+

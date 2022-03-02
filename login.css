@@ -1,0 +1,40 @@
+/* Heading of the Page */
+.container h1{
+    background-color: cyan;
+    color: blueviolet;
+    margin-top: 40px ;
+}
+
+/* Form */
+.container form{
+    margin-top: 100px;
+}
+
+/* Login Button */
+#b1{
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+/* Register Button */
+#b2{
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+/* Back Button */
+#b3{
+    margin-top: 50px;
+    margin-left: 320px;
+}
+
+/* Username */
+.container1{
+    margin-bottom: 50px;
+    color: blueviolet;
+}
+
+/* Password */
+.container2{
+    color:blueviolet;
+}
